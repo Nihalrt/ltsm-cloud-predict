@@ -1,7 +1,7 @@
 # Cloud Utilization Prediction using LSTMs
 
 ## Overview
-This project predicts **CPU, Memory, Network, and Disk utilization** in a cloud environment using **Long Short-Term Memory (LSTM) neural networks**. By leveraging AI-powered time-series forecasting, this system provides insights into cloud resource usage trends, helping cloud providers optimize performance, reduce costs, and prevent downtime.
+This project predicts **CPU, Memory, Network, and Disk utilization** in a cloud environment using **LTSM neural networks**. By leveraging AI-powered time-series forecasting, this system provides insights into cloud resource usage trends, helping cloud providers optimize performance, reduce costs, and prevent downtime.
 
 ## Features
 - **Multi-Resource Prediction**: Forecasts CPU, Memory, Network, and Disk usage.
